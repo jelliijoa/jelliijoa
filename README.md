@@ -1,16 +1,14 @@
 
 <h3>✨ ABOUT ME</h3>
 
-<img height="130" src="https://github.com/jelliijoa/jelliijoa/assets/101168694/1bdf213c-7ebf-4cfb-979b-ac34b36bb1de">
-
 <p>
-  🔥 Passionate BackEnd developer<br>
+  🔥 Growing Backend Developer<br>
   ❄️ Sookmyung Woman's University, Computer Science 20
 </p>
 
 #
   
-<h3>❤️ I love...</h3>
+<h3>❤️  I love</h3>
 <p>💻 Programming,&nbsp;&nbsp;🎬 Movies,&nbsp;&nbsp;🎮 Games</p>
   
 #
