@@ -8,8 +8,8 @@
 
 #
   
-<h3>❤️  I love</h3>
-<p>💻 Programming,&nbsp;&nbsp;🎬 Movies,&nbsp;&nbsp;🎮 Games</p>
+<h3>❤️</h3>
+<p>🎬 Movies,&nbsp;&nbsp;🎮 Games</p>
   
 #
 <h3>🛠 Tech Stacks</h3>
