@@ -34,14 +34,10 @@
 </p>
   
 #
+<h3> 🚀 Turning Ideas into Reality ... </h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jelliijoa" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jelliijoa&layout=compact&langs_count=8&card_width=320" />
-</a>
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jelliijoa&show_icons=true&theme=buefy&hide_border=true" alt="Jelliijoa's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jelliijoa&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 </div>
 
