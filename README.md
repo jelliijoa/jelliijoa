@@ -36,8 +36,7 @@
 #
 <h3> 🚀 Turning Ideas into Reality ... </h3>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jelliijoa&show_icons=true&theme=buefy&hide_border=true" alt="Jelliijoa's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jelliijoa&layout=compact&theme=buefy&exclude_repo=SMWU_AI&hide_border=true" /></a> |
+| ![Yoonji's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelliijoa&show_icons=true&theme=buefy&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jelliijoa&layout=compact&theme=buefy&exclude_repo=SMWU_AI&hide_border=true) |
 | ------------- | ------------- |
 
 </div>
-
