@@ -2,7 +2,6 @@
 <h3>✨ ABOUT ME</h3>
 
 <p>
-  🔥 Growing Backend Developer<br>
   ❄️ Sookmyung Woman's University, Computer Science 20
 </p>
 
@@ -14,7 +13,10 @@
 #
 <h3>🛠 Tech Stacks</h3>
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-1A6C80?style=flat-square&logo=java&logoColor=white">
+</p>
+<p>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white">
 </p>
