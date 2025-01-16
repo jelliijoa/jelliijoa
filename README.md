@@ -3,6 +3,7 @@
 
 <p>
   ❄️ Sookmyung Woman's University, Computer Science 20
+  💙 Frontend Developer at Pulda
 </p>
 
 #
