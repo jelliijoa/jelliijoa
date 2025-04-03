@@ -1,11 +1,11 @@
 
-<h3>✨ ABOUT ME</h3>
+<h3>ABOUT</h3>
 
 <p>
-  ❄️ Sookmyung Woman's University, Computer Science 20
+  🎓 Sookmyung Woman's University, Computer Science 20
 </p>
 <p>
-  💙 Frontend Developer at Pulda
+  Frontend Developer at Pulda
 </p>
 
 #
