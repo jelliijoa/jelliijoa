@@ -5,7 +5,7 @@
   🎓 Sookmyung Woman's University, Computer Science 20
 </p>
 <p>
-  Frontend Developer at Pulda
+  <img src="https://pulda.net/img/footer_logo.da7ac1ad.png", width=18, height=18> Frontend Developer at Pulda
 </p>
 
 #
