@@ -22,8 +22,9 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon-FF9900?style=flat-square&logo=Amazon&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon S3-FF9900?style=flat-square&logo=Amazon%20S3&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazons3&logoColor=white">
 </p>
 <p>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
@@ -36,7 +37,11 @@
 #
 <h3> 🚀 Turning Ideas into Reality ... </h3>
 
-| ![Yoonji's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelliijoa&show_icons=true&theme=buefy&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jelliijoa&layout=compact&theme=buefy&exclude_repo=SMWU_AI&hide_border=true) |
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jelliijoa&theme=tokyonight&border_radius=15&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jelliijoa&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&card_width=320&theme=tokyonight&border_radius=15&hide_border=true" />
+</a>
 
 </div>
