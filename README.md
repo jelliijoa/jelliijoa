@@ -1,6 +1,6 @@
 
 # ❓ABOUT ME
-<img height="150" align="left" src="https://github.com/user-attachments/assets/b8d518d5-9930-48d4-813e-1eeea2b2428d"/>
+<img height="160" align="left" src="https://github.com/user-attachments/assets/b8d518d5-9930-48d4-813e-1eeea2b2428d"/>
 
 
 무엇이든 관심이 생기면 빠르게 도전하고 실행해 보는 것을 좋아합니다.<br/>
