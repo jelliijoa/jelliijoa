@@ -1,6 +1,6 @@
 
 # ❓ABOUT ME
-<img height="160" align="left" src="https://github.com/user-attachments/assets/b8d518d5-9930-48d4-813e-1eeea2b2428d"/>
+<img height="150" align="left" src="https://github.com/user-attachments/assets/b8d518d5-9930-48d4-813e-1eeea2b2428d"/>
 
 
 무엇이든 관심이 생기면 빠르게 도전하고 실행해 보는 것을 좋아합니다.<br/>
@@ -10,7 +10,7 @@
   <img src="https://pulda.net/img/footer_logo.da7ac1ad.png", width=18, height=18> Frontend Developer at Pulda
 </p>
 <p>
-  🎓 Graduated from Sookmyung Women's University, Computer Science (2020.03 ~ 2025.02)
+  🎓 Graduated from Sookmyung Women's University, Computer Science
 </p>
 <br/>
 
