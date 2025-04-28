@@ -45,18 +45,18 @@
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=jelliijoa&theme=tokyonight&border_radius=15&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jelliijoa&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&card_width=320&theme=tokyonight&border_radius=15&hide_border=true" />
+  <img height=80 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jelliijoa&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&card_width=320&theme=tokyonight&border_radius=15&hide_border=true" />
 </a>
 <br/><br/><br/>
 
 ## 💻 Previous Projects
 
 <h3> 🎬 Movier (2024.05 ~ 2024.06) </h3>
-<img height="120" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=TEAM-SMCS4K&repo=Movier&border_radius=15"/>
+<img height="80" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=TEAM-SMCS4K&repo=Movier&border_radius=15"/>
 
 **영화와 마음을 함께하는 공간, 영화 리뷰 서비스 (Web)**
 
-- 숙명여자대학교 데이터베이스프로그래밍 팀 프로젝트  
+- SMWU 데이터베이스프로그래밍 팀 프로젝트  
 - HTML, CSS, JavaScript  
 - Java, JSP, JDBC  
 - AWS RDS (Oracle Database 19c), PL/SQL  
@@ -64,29 +64,29 @@
 
 
 <h3> 🥒 Picle (2023.11 ~ 2024.03) </h3>
-<img height="120" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Picle&repo=Picle-Server&border_radius=15"/>
+<img height="80" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Picle&repo=Picle-Server&border_radius=15"/>
 
 **이미지 인증을 통한 일상 및 루틴 관리 서비스 (iOS)**
 
-- 숙명여자대학교 소프트웨어학부 졸업 프로젝트  
+- SMWU 소프트웨어학부 졸업 프로젝트  
 - Java, Spring Boot, JPA, Python, Flask  
 - AWS EC2, RDS (MySQL)  
 <br/><br/>
 
 
 <h3> ✈️ MyRealTrip (2023.05) </h3>
-<img height="120" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GOSOPT-CDS-TEAM4&repo=MyRealTripServer&border_radius=15"/>
+<img height="80" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GOSOPT-CDS-TEAM4&repo=MyRealTripServer&border_radius=15"/>
 
 **마이리얼트립 리디자인 프로젝트 (Web)**
 
-- SOPT 32nd 디자인﹒클라﹒서버 합동 세미나
+- SOPT 32nd 디자인•클라•서버 합동 세미나
 - Java, Spring Boot, JPA  
 - AWS EC2, RDS (MySQL)  
 <br/><br/>
 
 
 <h3> 🚨 Cueing (2023.05) </h3>
-<img height="120" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SOPKATHON-9th&repo=Cueing-SERVER&border_radius=15"/>
+<img height="80" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SOPKATHON-9th&repo=Cueing-SERVER&border_radius=15"/>
 
 **실제 재난 상황 대비 시뮬레이션 서비스 (Android)**
 
@@ -98,11 +98,11 @@
 
 <h3> 🌟 SOPT 32nd (2023.03 ~ 2023.05) </h3>
 
-<img height="120" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GO-SOPT-SERVER&repo=KimYoonJi&border_radius=15"/>
+<img height="80" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GO-SOPT-SERVER&repo=KimYoonJi&border_radius=15"/>
 
 **GOSOPT 32기 서버 스터디**
 
-- 유저 로그인, 회원가입 및 게시판 작성 스터디  
+- 소셜 로그인, 회원가입 및 게시판 생성 스터디  
 - Java, Spring Boot, JPA, JWT  
 - AWS EC2, RDS (MySQL), S3
 <br/><br/><br/>
