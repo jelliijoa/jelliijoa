@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/GetX-8A2BE2?style=flat-square&logo=flutter&logoColor=white">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Java-1A6C80?style=flat-square&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-1A6C130?style=flat-square&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white">
 </p>
@@ -45,14 +45,14 @@
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=jelliijoa&theme=tokyonight&border_radius=15&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=80 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jelliijoa&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&card_width=320&theme=tokyonight&border_radius=15&hide_border=true" />
+  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jelliijoa&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&card_width=320&theme=tokyonight&border_radius=15&hide_border=true" />
 </a>
 <br/><br/><br/>
 
 ## 💻 Previous Projects
 
 <h3> 🎬 Movier (2024.05 ~ 2024.06) </h3>
-<img height="80" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=TEAM-SMCS4K&repo=Movier&border_radius=15"/>
+<img height="130" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=TEAM-SMCS4K&repo=Movier&border_radius=15"/>
 
 **영화와 마음을 함께하는 공간, 영화 리뷰 서비스 (Web)**
 
@@ -64,7 +64,7 @@
 
 
 <h3> 🥒 Picle (2023.11 ~ 2024.03) </h3>
-<img height="80" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Picle&repo=Picle-Server&border_radius=15"/>
+<img height="130" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Team-Picle&repo=Picle-Server&border_radius=15"/>
 
 **이미지 인증을 통한 일상 및 루틴 관리 서비스 (iOS)**
 
@@ -75,7 +75,7 @@
 
 
 <h3> ✈️ MyRealTrip (2023.05) </h3>
-<img height="80" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GOSOPT-CDS-TEAM4&repo=MyRealTripServer&border_radius=15"/>
+<img height="130" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GOSOPT-CDS-TEAM4&repo=MyRealTripServer&border_radius=15"/>
 
 **마이리얼트립 리디자인 프로젝트 (Web)**
 
@@ -86,7 +86,7 @@
 
 
 <h3> 🚨 Cueing (2023.05) </h3>
-<img height="80" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SOPKATHON-9th&repo=Cueing-SERVER&border_radius=15"/>
+<img height="130" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=SOPKATHON-9th&repo=Cueing-SERVER&border_radius=15"/>
 
 **실제 재난 상황 대비 시뮬레이션 서비스 (Android)**
 
@@ -98,7 +98,7 @@
 
 <h3> 🌟 SOPT 32nd (2023.03 ~ 2023.05) </h3>
 
-<img height="80" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GO-SOPT-SERVER&repo=KimYoonJi&border_radius=15"/>
+<img height="130" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GO-SOPT-SERVER&repo=KimYoonJi&border_radius=15"/>
 
 **GOSOPT 32기 서버 스터디**
 
