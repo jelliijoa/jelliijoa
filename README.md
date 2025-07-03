@@ -42,10 +42,19 @@
 <br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=jelliijoa&theme=tokyonight&border_radius=15&hide_border=true" />
+  <img 
+    height="170" 
+    align="center"
+    src="https://github-readme-stats-psi-seven-91.vercel.app/api?username=jelliijoa&theme=tokyonight&border_radius=15&hide_border=true" 
+  />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jelliijoa&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&card_width=320&theme=tokyonight&border_radius=15&hide_border=true" />
+  <img 
+    height="170" 
+    align="center"
+    src="https://github-readme-stats-psi-seven-91.vercel.app/api/top-langs?username=jelliijoa&layout=compact&exclude_repo=github-readme-stats,tech-interview-for-developer,Git-Study&hide=javascript&langs_count=8&card_width=320&theme=tokyonight&border_radius=15&hide_border=true" 
+  />
 </a>
 <br/><br/><br/>
 
