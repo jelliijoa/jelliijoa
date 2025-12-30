@@ -1,17 +1,14 @@
+## 👋🏻 About Me
+<img height="110" align="left" src="https://github.com/user-attachments/assets/b8d518d5-9930-48d4-813e-1eeea2b2428d"/>
 
-# ❓ABOUT ME
-<img height="150" align="left" src="https://github.com/user-attachments/assets/b8d518d5-9930-48d4-813e-1eeea2b2428d"/>
-
-
+<p>
+<img src="https://pulda.net/img/footer_logo.da7ac1ad.png", width=18, height=18> Full-stack Developer at Pulda<br/>
+🎓 B.S. in Computer Science, Sookmyung Women’s University
+  
 무엇이든 관심이 생기면 빠르게 도전하고 실행해 보는 것을 좋아합니다.<br/>
 단 한 줄의 코드라도 사용자가 불편함을 느끼지 않도록 작성하기 위해 노력합니다.<br/>
-<br/>
-<p>
-  <img src="https://pulda.net/img/footer_logo.da7ac1ad.png", width=18, height=18> Frontend Developer at Pulda
 </p>
-<p>
-  🎓 Graduated from Sookmyung Women's University, Computer Science
-</p>
+
 <br/>
 
 ## 🚀 Stacks & Stats
@@ -22,15 +19,9 @@
   <img src="https://img.shields.io/badge/GetX-8A2BE2?style=flat-square&logo=flutter&logoColor=white">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Java-1A6C130?style=flat-square&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white">
-</p>
-<p>
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazons3&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-3BABC3?style=flat-square&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
 </p>
 <p>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
@@ -45,7 +36,7 @@
   <img 
     height="170" 
     align="center"
-    src="https://github-readme-stats-psi-seven-91.vercel.app/api?username=jelliijoa&theme=tokyonight&border_radius=15&hide_border=true" 
+    src="https://jelliijoa.vercel.app/api?username=jelliijoa&theme=tokyonight&border_radius=15&hide_border=true" 
   />
 </a>
 
@@ -53,7 +44,7 @@
   <img 
     height="170" 
     align="center"
-    src="https://github-readme-stats-psi-seven-91.vercel.app/api/top-langs?username=jelliijoa&layout=compact&exclude_repo=github-readme-stats,tech-interview-for-developer,Git-Study&hide=javascript&langs_count=8&card_width=320&theme=tokyonight&border_radius=15&hide_border=true" 
+    src="https://jelliijoa.vercel.app/api/top-langs?username=jelliijoa&layout=compact&exclude_repo=github-readme-stats,tech-interview-for-developer,Git-Study&hide=javascript&langs_count=8&card_width=320&theme=tokyonight&border_radius=15&hide_border=true" 
   />
 </a>
 <br/><br/><br/>
